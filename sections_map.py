@@ -1,0 +1,23 @@
+ITEMS_MAP = {
+    "1": "Business",
+    "1A": "Risk Factors",
+    "1B": "Unresolved Staff Comments",
+    "1C": "Cybersecurity",
+    "2": "Properties",
+    "3": "Legal Proceedings",
+    "4": "Mine Safety Disclosures",
+    "5": "Market for Registrant’s Common Equity",
+    "6": "Selected Financial Data",
+    "7": "MD&A",
+    "7A": "Market Risk",
+    "8": "Financial Statements",
+    "9": "Changes in Accountants",
+    "9A": "Controls and Procedures",
+    "9B": "Other Information",
+    "10": "Directors and Executive Officers",
+    "11": "Executive Compensation",
+    "12": "Security Ownership",
+    "13": "Related Transactions",
+    "14": "Principal Accountant Fees",
+    "15": "Exhibits"
+}
